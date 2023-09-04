@@ -48,8 +48,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "WALK",
-    "path": "folders/Sprites/WALK.yy",
+    "name": "8D",
+    "path": "folders/Sprites/8D.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
