@@ -1,7 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 if (!collision_rectangle(x-4, y, x+4, y+2, obj_col, false, false)){
-	gravity = 0.1;
+	gravity = 0.2;
+	sprite_index = spr_player_jump;
 	}
 
 if (vspeed > 0){

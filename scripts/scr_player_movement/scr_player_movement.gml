@@ -20,7 +20,7 @@ function scr_player_movement(){
 		}
 		
 	//Salto
-	if (keyboard_check(vk_space) && collision_rectangle(x-8, y, x+4, y + 2, obj_col, false, false) ){
+	if (keyboard_check(vk_space) && collision_rectangle(x-4, y, x+4, y + 2, obj_col, false, false) ){
 		vspeed -= 5;
 		}
 }
